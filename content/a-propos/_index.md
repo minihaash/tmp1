@@ -6,11 +6,11 @@ title: "Delize | À propos"
 
 ## Notre histoire
 
-Delize est né de la passion pour la cuisine et l’envie de rendre la gastronomie accessible à tous. Fondé en [année de fondation], Delize a rapidement évolué pour devenir un acteur incontournable de la livraison de repas, en combinant qualité, rapidité et service exceptionnel.
+Delize est né de la passion pour la cuisine et l’envie de rendre les repas sains accessible à tous (aux etudiants). Fondé en 2024, Delize a rapidement évolué pour devenir un acteur incontournable de la livraison de repas pour les etudiants, en combinant qualité, rapidité et service exceptionnel.
 
 ## Notre mission
 
-Chez Delize, notre mission est simple : offrir des repas délicieux, préparés avec des ingrédients frais et de haute qualité, livrés directement à votre porte. Nous croyons que chaque repas doit être une expérience mémorable, que vous soyez chez vous, au bureau ou ailleurs.
+Chez Delize, notre mission est simple : offrir des repas délicieux, préparés avec des ingrédients frais et de haute qualité, livrés directement devants vos ecoles, universitéS et centre de formation. Nous croyons que chaque repas doit être une expérience mémorable, que vous soyez etudiants, alternants ou stagiaire.
 
 ## Nos valeurs
 
@@ -21,7 +21,7 @@ Chez Delize, notre mission est simple : offrir des repas délicieux, préparés 
 
 ## Notre équipe
 
-Derrière Delize se trouve une équipe passionnée de chefs, de livreurs et de professionnels du service client, tous dédiés à vous offrir la meilleure expérience possible. Chaque membre de notre équipe partage l’amour de la cuisine et le désir de vous faire découvrir des saveurs uniques.
+Derrière Delize se trouve une équipe passionnée de cuisiners, de livreurs et de professionnels du service client, tous dédiés à vous offrir la meilleure expérience possible. Chaque membre de notre équipe partage l’amour de la cuisine et le désir de vous faire découvrir des saveurs uniques.
 
 ## Rejoignez-nous
 
